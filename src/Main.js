@@ -12,7 +12,9 @@ class Main extends Component {
           <h1>HEADER TEST</h1>
           <ul className="header">
             <li>
-              <NavLink to="/">Home</NavLink>
+              <NavLink exact to="/">
+                Home
+              </NavLink>
             </li>
             <li>
               <NavLink to="/projects">Projects</NavLink>
