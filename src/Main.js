@@ -22,7 +22,7 @@ class Main extends Component {
             </li>
           </ul>
           <div className="content">
-            <Route path="/" component={Home} />
+            <Route exact path="/" component={Home} />
             <Route path="/projects" component={Projects} />
             <Route path="/contact" component={Contact} />
           </div>
