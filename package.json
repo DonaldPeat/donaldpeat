@@ -2,7 +2,7 @@
   "name": "donaldpeat",
   "version": "0.1.1",
   "private": true,
-  "homepage": "http://donaldpeat.github.io",
+  "homepage": "http://donaldpeat.github.io/donaldpeat",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
